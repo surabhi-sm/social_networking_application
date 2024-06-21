@@ -44,7 +44,7 @@ This is a social networking application built with Django and MongoDB. Users can
     Clone the repository
     
     ```sh
-    git clone [https://github.com/your-username/social_networking_application.git](https://github.com/surabhi-sm/social_networking_application.git)
+    git clone https://github.com/surabhi-sm/social_networking_application.git
     cd social_networking_application
 
 3. Run the following command to create a virtual environment:
